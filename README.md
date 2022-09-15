@@ -1,2 +1,2 @@
-python-oop-examples
+python-oop-scratch
 ===================
